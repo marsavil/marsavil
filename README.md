@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Mariano and currently, I´m finishing my attendance to a bootcamp in order to become a Full Stack Developer. I'm about to get my degree.
+My name is Mariano and I´m currently finishing my attendance to a bootcamp in order to become a Full Stack Developer. I'm about to get my degree.
 I'm from Argentina and I wish to start developing a carrer on the basis of my knew knowledge.
 My main goal is to keep on developing by getting into the IT world and by continue learning and using new tools and techniques
 
