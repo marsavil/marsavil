@@ -2,7 +2,7 @@
 
 
 My name is Mariano and I´m currently finishing my road as a formal student of Henry in order to become a Full Stack Developer. I'm about to get my degree.<br>
-I'm from Argentina and I wish to start developing a carrer on the basis of my knew knowledge.
+I'm from Argentina and I wish to start developing a carrer on the basis of my knew knowledge.<br>
 My main goal is to keep on developing by getting into the IT world and by continue learning and using new tools and techniques
 
 <h3 align="left">Languages and Tools:</h3>
